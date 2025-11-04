@@ -9,3 +9,15 @@ C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.dll
 C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\net8.0\refint\BSCShared.dll
 C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.pdb
 C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\net8.0\ref\BSCShared.dll
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\bin\Debug\net8.0\BSCShared.deps.json
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\bin\Debug\net8.0\BSCShared.dll
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\bin\Debug\net8.0\BSCShared.pdb
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.AssemblyInfoInputs.cache
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.AssemblyInfo.cs
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.csproj.CoreCompileInputs.cache
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.sourcelink.json
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.dll
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\refint\BSCShared.dll
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.pdb
+C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\ref\BSCShared.dll
