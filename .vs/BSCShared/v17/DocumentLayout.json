@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\",
+  "WorkspaceRootPath": "C:\\Users\\morga\\source\\repos\\BSCShared\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\packets\\pingpongpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\pingpongpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\packets\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\packets\\notitestpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\notitestpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\edianbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\edianbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\uidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\uidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\packets\\messagepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\packets\\messagepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\messagepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\desktop\\development\\baseserverclient\\bscshared\\bscshared\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\packets\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\packets\\pingpongpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\packets\\pingpongpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\edianbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\edianbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|c:\\users\\morga\\source\\repos\\bscshared\\bscshared\\uidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C200EC6-7658-44AE-9808-64A8A0E67DE8}|BSCShared\\BSCShared.csproj|solutionrelative:bscshared\\uidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +46,37 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "NotitestPacket.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\NotitestPacket.cs",
+              "RelativeDocumentMoniker": "BSCShared\\Packets\\NotitestPacket.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\NotitestPacket.cs",
+              "RelativeToolTip": "BSCShared\\Packets\\NotitestPacket.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:46:32.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Entity.cs",
+              "RelativeDocumentMoniker": "BSCShared\\Entity.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Entity.cs",
+              "RelativeToolTip": "BSCShared\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:01:03.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EdianBitConverter.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\EdianBitConverter.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\EdianBitConverter.cs",
               "RelativeDocumentMoniker": "BSCShared\\EdianBitConverter.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\EdianBitConverter.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\EdianBitConverter.cs",
               "RelativeToolTip": "BSCShared\\EdianBitConverter.cs",
               "ViewState": "AgIAAJgAAAAAAAAAAAAswLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PingPongPacket.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\PingPongPacket.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\PingPongPacket.cs",
               "RelativeDocumentMoniker": "BSCShared\\Packets\\PingPongPacket.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\PingPongPacket.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\PingPongPacket.cs",
               "RelativeToolTip": "BSCShared\\Packets\\PingPongPacket.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Debugging.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Debugging.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Debugging.cs",
               "RelativeDocumentMoniker": "BSCShared\\Debugging.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Debugging.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Debugging.cs",
               "RelativeToolTip": "BSCShared\\Debugging.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,24 +111,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MessagePacket.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\MessagePacket.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\MessagePacket.cs",
               "RelativeDocumentMoniker": "BSCShared\\Packets\\MessagePacket.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\MessagePacket.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\MessagePacket.cs",
               "RelativeToolTip": "BSCShared\\Packets\\MessagePacket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T02:47:50.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UIDGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\UIDGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\UIDGenerator.cs",
               "RelativeDocumentMoniker": "BSCShared\\UIDGenerator.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\UIDGenerator.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\UIDGenerator.cs",
               "RelativeToolTip": "BSCShared\\UIDGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Packet.cs",
-              "DocumentMoniker": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\Packet.cs",
+              "DocumentMoniker": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\Packet.cs",
               "RelativeDocumentMoniker": "BSCShared\\Packets\\Packet.cs",
-              "ToolTip": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\Packets\\Packet.cs",
+              "ToolTip": "C:\\Users\\morga\\source\\repos\\BSCShared\\BSCShared\\Packets\\Packet.cs",
               "RelativeToolTip": "BSCShared\\Packets\\Packet.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAlwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T15:31:30.154Z",
               "EditorCaption": ""

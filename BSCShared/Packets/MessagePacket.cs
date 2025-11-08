@@ -1,7 +1,5 @@
-﻿using System;
-using System.Text;
-using System.Threading.Tasks;
-using System.Net.Security;
+﻿using BSCShared.Packets;
+using BSCShared;
 
 namespace BSCShared.Packets
 {
@@ -9,12 +7,12 @@ namespace BSCShared.Packets
     {
         public string message { get; set; }
 
-   
+
         public MessagePacket(byte[] _payload)
         {
             type = PacketType.MESSAGE;
             if (_payload != null && _payload.Length > 0)
-            {            
+            {
                 int bytesRead;
                 message = EndianBitConverter.ToStringBigEndian(_payload, 0, out bytesRead);
                 payload = new byte[bytesRead];
@@ -27,15 +25,15 @@ namespace BSCShared.Packets
             }
         }
 
-     
+
         public MessagePacket(string _message)
         {
             type = PacketType.MESSAGE;
             message = _message ?? string.Empty;
-         
+
             payload = EndianBitConverter.GetStringBytesBigEndian(message);
         }
 
-      
+
     }
 }

@@ -8,7 +8,8 @@ namespace BSCShared.Packets
     {
         NULL,
         MESSAGE,
-        PINGPONG
+        PINGPONG,
+        NOTITEST,
     }
     public abstract class Packet
     {
@@ -94,8 +95,9 @@ namespace BSCShared.Packets
         private static readonly Dictionary<PacketType, Func<byte[], Packet>> PacketRegistry =
             new Dictionary<PacketType, Func<byte[], Packet>>
             {
-                { PacketType.MESSAGE, payload => new MessagePacket(payload) },
-                { PacketType.PINGPONG, payload => new PingPongPacket(payload) }          
+                { PacketType.MESSAGE, payload   => new MessagePacket(payload)  },
+                { PacketType.PINGPONG, payload  => new PingPongPacket(payload) },
+                { PacketType.NOTITEST, payload  => new NotitestPacket(payload) }
             };
 
         // Create a packet based on PacketType

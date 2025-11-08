@@ -21,3 +21,4 @@ C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debu
 C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\refint\BSCShared.dll
 C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.pdb
 C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\obj\Debug\net8.0\ref\BSCShared.dll
+C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\net8.0\BSCShared.sourcelink.json
