@@ -1,31 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace BSCShared
+public static class Debugging
 {
-    public class Debugging
+    public static void Log(string category, string message)
     {
-        //
-        public static HashSet<string> whitelist = new HashSet<string>() { "Server", "Program", "ClientSessionHandler" }; 
-        public static void Log(string identifier, string s) 
-        {
-            if(whitelist.Contains(identifier))
-                Console.WriteLine(GetTimeStamp() + " " + s);
-        }
-        public static void LogError(string identifier, string s)
-        {
-            if (whitelist.Contains(identifier))
-                Console.WriteLine(GetTimeStamp() + " " + "ERROR: " + s);
-        }
+        Console.WriteLine($"[{category}] {message}");
 
+#if UNITY_2020_1_OR_NEWER
+        UnityEngine.Debug.Log($"[{category}] {message}");
+#endif
+    }
 
-        public static string GetTimeStamp() 
-        {
-            return DateTime.Now.ToString("[HH:mm:ss]");
-        }
+    public static void LogWarning(string category, string message)
+    {
+        Console.WriteLine($"[WARN:{category}] {message}");
+
+#if UNITY_2020_1_OR_NEWER
+        UnityEngine.Debug.LogWarning($"[WARN:{category}] {message}");
+#endif
+    }
+
+    public static void LogError(string category, string message)
+    {
+        Console.WriteLine($"[ERROR:{category}] {message}");
+
+#if UNITY_2020_1_OR_NEWER
+        UnityEngine.Debug.LogError($"[ERROR:{category}] {message}");
+#endif
     }
 }

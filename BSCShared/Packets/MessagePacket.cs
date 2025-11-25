@@ -1,5 +1,6 @@
 ﻿using BSCShared.Packets;
 using BSCShared;
+using System;
 
 namespace BSCShared.Packets
 {

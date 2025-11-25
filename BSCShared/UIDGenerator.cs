@@ -5,7 +5,7 @@ using System.Text;
 public class UIDGenerator
 {
     private static long _uidIndex = 0;
-    private static readonly object _lock = new();
+    private static readonly object _lock = new object();
     private static readonly HashAlgorithm _sha = SHA256.Create();
 
     //Generate's a 64 Character UID

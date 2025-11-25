@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "guw49Cz85Ic=",
+  "dgSpecHash": "jxrt9tJhz5U=",
   "success": true,
   "projectFilePath": "C:\\Users\\morga\\Desktop\\Development\\BaseServerClient\\BSCShared\\BSCShared\\BSCShared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\morga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\morga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

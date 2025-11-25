@@ -1,7 +1,11 @@
-﻿public class Entity
+﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+public class Entity
 {
-    private readonly Dictionary<string, List<TaskCompletionSource<object[]>>> pendingNotifications = new();
-    private static readonly Dictionary<string, Entity> Entities = new();
+    private readonly Dictionary<string, List<TaskCompletionSource<object[]>>> pendingNotifications = new Dictionary<string, List<TaskCompletionSource<object[]>>>();
+    private static readonly Dictionary<string, Entity> Entities = new Dictionary<string, Entity>();
 
     public string UID { get; set; }
 
