@@ -11,7 +11,8 @@ namespace BSCShared.Packets
 
         // Constructor for reading from payload
         public PingPongPacket(byte[] _payload)
-        {
+        {           
+
             type = PacketType.PINGPONG;
 
             if (_payload != null && _payload.Length >= 8) // only 8 bytes for ticks

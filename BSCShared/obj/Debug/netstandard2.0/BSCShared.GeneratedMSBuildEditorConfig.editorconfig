@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = BSCShared
-build_property.ProjectDir = C:\Users\morga\Desktop\Development\BaseServerClient\BSCShared\BSCShared\
+build_property.ProjectDir = C:\Users\morga\source\repos\BSCShared\BSCShared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
