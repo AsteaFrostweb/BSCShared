@@ -23,3 +23,6 @@ C:\Users\morga\source\repos\BSCShared\BSCShared\obj\Debug\netstandard2.0\BSCShar
 C:\Users\morga\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.deps.json
 C:\Users\morga\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.dll
 C:\Users\morga\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.pdb
+C:\Users\morga\Desktop\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.deps.json
+C:\Users\morga\Desktop\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.dll
+C:\Users\morga\Desktop\Gatherelm\Assets\Debug\netstandard2.0\BSCShared.pdb

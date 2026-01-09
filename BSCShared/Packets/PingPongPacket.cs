@@ -8,7 +8,7 @@ namespace BSCShared.Packets
     public class PingPongPacket : Packet
     {
         public DateTime sendTime;
-
+        public int latency;
         // Constructor for reading from payload
         public PingPongPacket(byte[] _payload)
         {           
@@ -29,6 +29,8 @@ namespace BSCShared.Packets
                 sendTime = DateTime.MinValue;
                 payload = Array.Empty<byte>();
             }
+
+            latency = Convert.ToInt32(DateTime.UtcNow.Subtract(sendTime).TotalMilliseconds);
         }
 
         // Constructor for sending a packet

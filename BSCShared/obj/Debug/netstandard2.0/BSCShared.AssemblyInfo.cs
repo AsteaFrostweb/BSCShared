@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSCShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+547c9bc04080f943ecc737953b067e10e93e8107")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+767be21ad4e3747c928963bb9f93672d5b5ae51b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSCShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSCShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

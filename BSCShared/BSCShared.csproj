@@ -2,7 +2,11 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
-		<BaseOutputPath>C:\Users\morga\Gatherelm\Assets</BaseOutputPath>
+		<BaseOutputPath>C:\Users\morga\Desktop\Gatherelm\Assets</BaseOutputPath>
 	</PropertyGroup>
+
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+	  <Exec Command="call &quot;D:\Documents\Programming\UnityProjects\GatherelmWorldBuilder\Assets\SyncSharedLib.bat&quot;" />
+	</Target>
 
 </Project>

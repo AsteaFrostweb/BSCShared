@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-public class Entity
+public abstract class Entity
 {
     private readonly Dictionary<string, List<TaskCompletionSource<object[]>>> pendingNotifications = new Dictionary<string, List<TaskCompletionSource<object[]>>>();
     private static readonly Dictionary<string, Entity> Entities = new Dictionary<string, Entity>();
@@ -14,6 +14,9 @@ public class Entity
         UID = UIDGenerator.GenerateUID();
         Entities.Add(UID, this);
     }
+
+    public abstract void Update();
+
 
     public async Task<object[]> AwaitNotification(string tag)
     {
